@@ -10,7 +10,42 @@
 body {
     background-color: #ffffa6;
     color: rgb(53, 52, 52);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h1, h2 {
     font-family: 'Oswald', sans-serif;
 }   
+h1 {
+text-align: center;
+    font-size: 60px;
+}
+li {
+    display: block
+}
+
+header li {
+    display: inline-block;
+    font-size: 26px;
+    margin: 0 15px 0 15px;
+}
+
+a {
+    font-size: 20px;
+    display: inline-block;
+    margin: 0 15px 0 15px;
+}
+
+header li:first-of-type {
+    margin-left: 0;
+}
+
+/* footer styles */
+footer a {
+    display: inline-block;
+    font-size: 40px;
+    margin: 0 15px 0 15px;
+}
+header li {
+    display: inline-block;
+    font-size: 26px;
+    margin: 0 15px 0 15px;
