@@ -1,0 +1,16 @@
+/*
+#ff5722; primary orange
+#ff8a50; light orange
+#ff8a50; dark oragne
+#dce775; secondary green
+#ffffa6; green light
+#a8b545; green dark
+*/
+
+body {
+    background-color: #ffffa6;
+    color: rgb(53, 52, 52);
+}
+h1, h2 {
+    font-family: 'Oswald', sans-serif;
+}   
